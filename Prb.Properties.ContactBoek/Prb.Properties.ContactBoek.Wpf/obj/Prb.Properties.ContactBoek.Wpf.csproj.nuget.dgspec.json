@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\verst\\Desktop\\ExWorkplace\\Prb.Properties.ContactBoek\\Prb.Properties.ContactBoek.Wpf\\Prb.Properties.ContactBoek.Wpf.csproj": {}
+    "C:\\Users\\Angelo\\Desktop\\ExWorkplace\\Prb.Properties.ContactBoek\\Prb.Properties.ContactBoek.Wpf\\Prb.Properties.ContactBoek.Wpf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\verst\\Desktop\\ExWorkplace\\Prb.Properties.ContactBoek\\Prb.Properties.ContactBoek.Wpf\\Prb.Properties.ContactBoek.Wpf.csproj": {
+    "C:\\Users\\Angelo\\Desktop\\ExWorkplace\\Prb.Properties.ContactBoek\\Prb.Properties.ContactBoek.Wpf\\Prb.Properties.ContactBoek.Wpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\verst\\Desktop\\ExWorkplace\\Prb.Properties.ContactBoek\\Prb.Properties.ContactBoek.Wpf\\Prb.Properties.ContactBoek.Wpf.csproj",
+        "projectUniqueName": "C:\\Users\\Angelo\\Desktop\\ExWorkplace\\Prb.Properties.ContactBoek\\Prb.Properties.ContactBoek.Wpf\\Prb.Properties.ContactBoek.Wpf.csproj",
         "projectName": "Prb.Properties.ContactBoek.Wpf",
-        "projectPath": "C:\\Users\\verst\\Desktop\\ExWorkplace\\Prb.Properties.ContactBoek\\Prb.Properties.ContactBoek.Wpf\\Prb.Properties.ContactBoek.Wpf.csproj",
-        "packagesPath": "C:\\Users\\verst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\verst\\Desktop\\ExWorkplace\\Prb.Properties.ContactBoek\\Prb.Properties.ContactBoek.Wpf\\obj\\",
+        "projectPath": "C:\\Users\\Angelo\\Desktop\\ExWorkplace\\Prb.Properties.ContactBoek\\Prb.Properties.ContactBoek.Wpf\\Prb.Properties.ContactBoek.Wpf.csproj",
+        "packagesPath": "C:\\Users\\Angelo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Angelo\\Desktop\\ExWorkplace\\Prb.Properties.ContactBoek\\Prb.Properties.ContactBoek.Wpf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\verst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Angelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
